@@ -76,7 +76,7 @@
 ## About The Project
 
 
-&emsp; Graphics are one of the most popular sources of data transfer nowadays, we can arguably term them as the easiest data to read, and herein we are dealing with the same, in our project R3ND3R, we are focusing more on making an impact and it is obviously going to set an indelible benchmark in learning, teaching, developing, designing and automation
+&emsp; Graphics are one of the most popular sources of data transfer nowadays, we can arguably term them as the easiest data to read, and herein we are dealing with the same, in our project R3ND3R, we are focusing more on making an impact and it is obviously going to set an indelible benchmark in learning, teaching, developing, designing and automation.
 <br>
 &emsp; The project which we have worked on aims to create an interface for visualizing any sort of three dimensional or two dimensional data for a better understanding of the models which we create and their physical attributes.
 
@@ -94,16 +94,16 @@ Follow through to get started!
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This below here is the list any major frameworks/libraries used to bootstrap this project. Rest of the add-ons/plugins can be found in the acknowledgements section.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Blender](https://nextjs.org/)
+* [Tkinter](https://reactjs.org/)
+* [BPY](https://vuejs.org/)
+* [OpenCV](https://angular.io/)
+* [PIL (Python Imaging Library)](https://svelte.dev/)
+* [pyquaternion](https://laravel.com)
+* [numpy](https://getbootstrap.com)
+* [scipy](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -112,16 +112,23 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Follow up these instructioins on setting up your project locally. 
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To get a local copy up and running first install blender.
+
+Download Blender from here.
+
+```sh
+pip install -r requirements.txt
+```
+
 * npm
   ```sh
   npm install npm@latest -g
   ```
+  
 
 ### Installation
 
