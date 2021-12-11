@@ -1,5 +1,3 @@
-# R3ND3R
-<div id="top"></div>
 
 
 <!-- PROJECT SHIELDS -->
@@ -11,13 +9,15 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <div align="center">
+  
   # R3ND3R
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+  
+ [![Contributors][contributors-shield]][contributors-url]
+ [![Forks][forks-shield]][forks-url]
+ [![Stargazers][stars-shield]][stars-url]
+ [![Issues][issues-shield]][issues-url]
+ [![MIT License][license-shield]][license-url]
+ [![LinkedIn][linkedin-shield]][linkedin-url]
 </div>
 
 
