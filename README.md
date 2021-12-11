@@ -28,7 +28,7 @@
   </a>
 
   <h3 align="center"Molding, Handling and Accessing Multi-Dimensional Models</h3>
-
+  <p>
     <a href="https://github.com/DrCybernotix/R3ND3R"><strong>Explore the docs »</strong></a>
     <br />
     <br />
