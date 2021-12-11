@@ -77,6 +77,7 @@
 
 
 &emsp; Graphics are one of the most popular sources of data transfer nowadays, we can arguably term them as the easiest data to read, and herein we are dealing with the same, in our project R3ND3R, we are focusing more on making an impact and it is obviously going to set an indelible benchmark in learning, teaching, developing, designing and automation
+<br>
 &emsp; The project which we have worked on aims to create an interface for visualizing any sort of three dimensional or two dimensional data for a better understanding of the models which we create and their physical attributes.
 
 Objectives:
