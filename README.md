@@ -118,7 +118,7 @@ Follow up these instructioins on setting up your project locally.
 
 To get a local copy up and running first install blender.
 
-Download Blender from here. [Windows/MacOS](https://www.blender.org/download/)
+Download Blender from here : [Windows/MacOS](https://www.blender.org/download/)
 
 ```sh
 pip install -r requirements.txt
