@@ -134,19 +134,16 @@ pip install -r requirements.txt
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Download the selective models or create your own, you can either clone this repository and get all the listed models in your own device.
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/DrCybernotix/R3ND3R
    ```
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+4. Update your pip if your face any errors.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
