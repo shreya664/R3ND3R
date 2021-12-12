@@ -132,7 +132,6 @@ pip install -r requirements.txt
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Download the selective models or create your own, you can either clone this repository and get all the listed models in your own device.
 2. Clone the repo
