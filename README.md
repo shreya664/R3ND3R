@@ -104,6 +104,9 @@ This below here is the list any major frameworks/libraries used to bootstrap thi
 * [pyquaternion](https://laravel.com)
 * [numpy](https://getbootstrap.com)
 * [scipy](https://jquery.com)
+* [shutil]()
+* [OS]()
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -129,6 +132,7 @@ pip install -r requirements.txt
   npm install npm@latest -g
   ```
   
+One important point to ponder is regarding the copy method, *shutil.copy()*, in Python as it is used to copy the content of *source file* to *destination file* or *directory*. It also preserves the file's permission mode but other metadata of the file like the file's creation and modification times is not preserved!
 
 ### Installation
 
