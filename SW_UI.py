@@ -7,7 +7,7 @@ import shutil
 root = Tk()
 root.geometry("1320x660")
 root.title("R3ND3R UI")
-root.config(background="#5D6D7E")
+root.config(background="black")
 #root.config(background="C:\Users\SHREYASH S BHATKAR\Pictures\Saved Pictures\bakugo.jpg")
 #bg = PhotoImage(file = "C:\Users\SHREYASH S BHATKAR\Pictures\Saved Pictures\bakugo.jpg")
 
@@ -171,51 +171,52 @@ def move_file():
     f1.destroy()
 
 
-lbl_heading = Label(root, text="Welcome to R3ND3R",font=("bold",18),fg="gold2",bg='black')
+lbl_heading = Label(root, text="Welcome to R3ND3R",font=("italic",18),fg="#716DE5",bg='black')
 lbl_heading.place(relx = 0.5,
                 rely = 0.1,
                 anchor = 'center')
 
-open_btn = Button(root, text="Render Model⛰",command=open_file, width=15,font=('bold',14))
+
+open_btn = Button(root, text="Render Model⛰",command=open_file, width=15,font=('bold',14),bg="#6C4FC4")
 open_btn.place(relx = 0.1,
                 rely = 0.2,
                 anchor = 'center')
 
-delete_btn = Button(root, text="Delete Model⛰",command=delete_file, width=15,font=('bold',14))
+delete_btn = Button(root, text="Delete Model⛰",command=delete_file, width=15,font=('bold',14),bg="#5782C7")
 delete_btn.place(relx = 0.4,
                 rely = 0.2,
                 anchor = 'center')
 
-rename_btn = Button(root, text="Rename Model", command=rename_file, width=15,font=('bold',14))
+rename_btn = Button(root, text="Rename Model⛰", command=rename_file, width=15,font=('bold',14),bg="#5782C7")
 rename_btn.place(relx = 0.6,
                 rely = 0.2,
                 anchor = 'center')
 
-copy_move_btn = Button(root, text="Copy/Move Model", command=copy_move_file, width=15,font=('bold',14))
+copy_move_btn = Button(root, text="Copy/Move Model⛰", command=copy_move_file, width=18,font=('bold',14),bg="#6C4FC4")
 copy_move_btn.place(relx = 0.9,
                 rely = 0.2,
                 anchor = 'center')
-create_folder_btn = Button(root, text="Create Folder📂", command=create_folder, width=15,font=('bold',14))
+create_folder_btn = Button(root, text="Create Folder📂", command=create_folder, width=15,font=('bold',14),bg="#6C4FC4")
 create_folder_btn.place(relx = 0.1,
                 rely = 0.3,
                 anchor = 'center')
 
-deletefolder_btn = Button(root, text="Delete Folder♻", command=deletefolder, width=15,font=('bold',14))
+deletefolder_btn = Button(root, text="Delete Folder♻", command=deletefolder, width=15,font=('bold',14),bg="#5782C7")
 deletefolder_btn.place(relx = 0.4,
                 rely = 0.3,
                 anchor = 'center')
 
-rename_folder_btn = Button(root, text="Rename Folder📂", command=rename_folder, width=15,font=('bold',14))
+rename_folder_btn = Button(root, text="Rename Folder📂", command=rename_folder, width=15,font=('bold',14),bg="#5782C7")
 rename_folder_btn.place(relx = 0.6,
                 rely = 0.3,
                 anchor = 'center')
 
-view_btn = Button(root, text="View Folder Contents👀", command=view_folder, width=19,font=('bold',14))
+view_btn = Button(root, text="View Folder Contents👀", command=view_folder, width=19,font=('bold',14),bg="#6C4FC4")
 view_btn.place(relx = 0.9,
                 rely = 0.3,
                 anchor = 'center')
 
-exit_btn = Button(root, text="Exit🔚", command=root.destroy, width=12,font=('bold',14))
+exit_btn = Button(root, text="Exit🔚", command=root.destroy, width=12,font=('bold',14),bg="#6C4FC4")
 exit_btn.place(relx = 0.5,
                 rely = 0.4,
                 anchor = 'center')
