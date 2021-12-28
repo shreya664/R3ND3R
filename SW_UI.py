@@ -171,7 +171,7 @@ def move_file():
     f1.destroy()
 
 
-lbl_heading = Label(root, text="Welcome to R3ND3R",font=("italic",18),fg="#716DE5",bg='black')
+lbl_heading = Label(root, text="Welcome to R3ND3R⛰",font=("italic",24),fg="#716DE5",bg='black')
 lbl_heading.place(relx = 0.5,
                 rely = 0.1,
                 anchor = 'center')
