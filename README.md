@@ -253,5 +253,5 @@ The list of resources I found helpful whilst makingg this project and would like
 [license-shield]: https://img.shields.io/github/license/DrCybernotix/R3ND3R.svg?style=for-the-badge
 [license-url]: https://github.com/DrCybernotix/R3ND3R/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://in.linkedin.com/in/shreyash-bhatkar-5bb904194
-[product-screenshot]: https://github.com/DrCybernotix/R3ND3R/blob/main/myLogos/R3ND3R_logo.png
+[linkedin-url]: https://www.linkedin.com/in/shreya-hiremath-8aa43b1b2
+[product-screenshot]: https://github.com/shr3yash/R3ND3R/blob/main/myLogos/R3ND3R_logo.png
