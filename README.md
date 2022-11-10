@@ -17,7 +17,8 @@
  [![Stargazers][stars-shield]][stars-url]
  [![Issues][issues-shield]][issues-url]
  [![MIT License][license-shield]][license-url]
- [![LinkedIn][linkedin-shield]][linkedin-url]
+ [![LinkedIn][linkedin-shield]][linkedin-url] (Shreya)
+  [![LinkedIn][linkedin-shield]][linkedin-url1] (Shreyash)
 </div>
 
 
@@ -255,3 +256,4 @@ The list of resources I found helpful whilst makingg this project and would like
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/shreya-hiremath-8aa43b1b2
 [product-screenshot]: https://github.com/shr3yash/R3ND3R/blob/main/myLogos/R3ND3R_logo.png
+[linkedin-url1]: https://www.linkedin.com/in/shr3yash
