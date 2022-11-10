@@ -31,12 +31,12 @@
 
   <h3 align="center"Molding, Handling and Accessing Multi-Dimensional Models</h3>
   <p>
-    <a href="https://github.com/DrCybernotix/R3ND3R"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/shr3yash/R3ND3R"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DrCybernotix/R3ND3R">View Demo</a>
+    <a href="https://github.com/shr3yash/R3ND3R">View Demo</a>
     ·
-    <a href="https://github.com/DrCybernotix/R3ND3R/issues">Report Bug</a>
+    <a href="https://github.com/shr3yash/R3ND3R/issues">Report Bug</a>
     ·
     <a href="https://github.com/DrCybernotix/R3ND3R/pulls">Request Feature</a>
   </p>
